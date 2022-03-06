@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2022-03-06-project-proposal/",
+    "title": "Project Proposal",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Zhang Yi",
+        "url": {}
+      }
+    ],
+    "date": "2022-03-06",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-03-06T16:14:56+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-03-06-proposal/",
+    "title": "Project Proposal",
+    "description": "The project proposal for car accident analysis in the UK.",
+    "author": [
+      {
+        "name": "zhangyi",
+        "url": {}
+      }
+    ],
+    "date": "2022-03-06",
+    "categories": [],
+    "contents": "\n1.O Introduction\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-03-06T16:24:41+08:00",
+    "input_file": {}
+  }
+]
