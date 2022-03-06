@@ -1,7 +1,7 @@
 ---
 title: "Project Proposal"
 description: |
-  Project proposal for car accident analysis in UK.
+  A short description of the post.
 author:
   - name: zhangyi
 date: 2022-03-06
