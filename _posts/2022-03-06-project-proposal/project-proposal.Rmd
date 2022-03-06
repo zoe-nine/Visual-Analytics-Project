@@ -3,7 +3,7 @@ title: "Project Proposal"
 description: |
   A short description of the post.
 author:
-  - name: zhangyi
+  - name: Zhang Yi
 date: 2022-03-06
 output:
   distill::distill_article:
